@@ -1,0 +1,108 @@
+[18-Apr-2020 11:23:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\ShareWidget\companyOptions.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ShareWidget\companyOptions.php on line 18
+[18-Apr-2020 11:24:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\ShareWidget\companyOptions.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ShareWidget\companyOptions.php on line 18
+[18-Apr-2020 11:28:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\ShareWidget\companyOptions.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ShareWidget\companyOptions.php on line 18
+[18-Apr-2020 11:46:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\ShareWidget\companyOptions.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ShareWidget\companyOptions.php on line 18
+[18-Apr-2020 11:48:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\ShareWidget\companyOptions.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ShareWidget\companyOptions.php on line 18
+[18-Apr-2020 11:52:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\ShareWidget\companyOptions.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ShareWidget\companyOptions.php on line 18
+[18-Apr-2020 11:53:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\ShareWidget\companyOptions.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ShareWidget\companyOptions.php on line 18
+[18-Apr-2020 11:53:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\ShareWidget\companyOptions.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ShareWidget\companyOptions.php on line 18
+[18-Apr-2020 11:56:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\ShareWidget\companyOptions.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ShareWidget\companyOptions.php on line 18
+[18-Apr-2020 11:56:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\ShareWidget\companyOptions.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ShareWidget\companyOptions.php on line 18
+[18-Apr-2020 12:04:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in C:\xampp\htdocs\ShareWidget\companyOptions.php:16
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ShareWidget\companyOptions.php on line 16
+[18-Apr-2020 12:26:19 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function hson_encode() in C:\xampp\htdocs\ShareWidget\companyOptions.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ShareWidget\companyOptions.php on line 18
+[18-Apr-2020 12:26:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function hson_encode() in C:\xampp\htdocs\ShareWidget\companyOptions.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ShareWidget\companyOptions.php on line 18
+[18-Apr-2020 12:53:05 Europe/Berlin] PHP Notice:  Undefined variable: array_push in C:\xampp\htdocs\ShareWidget\companyOptions.php on line 19
+[18-Apr-2020 12:53:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Function name must be a string in C:\xampp\htdocs\ShareWidget\companyOptions.php:19
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ShareWidget\companyOptions.php on line 19
+[18-Apr-2020 13:08:36 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\ShareWidget\companyOptions.php on line 18
+[18-Apr-2020 13:08:36 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\ShareWidget\companyOptions.php on line 18
+[18-Apr-2020 13:08:36 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\ShareWidget\companyOptions.php on line 18
+[18-Apr-2020 13:08:36 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\ShareWidget\companyOptions.php on line 18
+[18-Apr-2020 13:08:36 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\ShareWidget\companyOptions.php on line 18
+[18-Apr-2020 13:08:36 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\ShareWidget\companyOptions.php on line 18
+[18-Apr-2020 13:08:36 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\ShareWidget\companyOptions.php on line 18
+[18-Apr-2020 13:08:36 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\ShareWidget\companyOptions.php on line 18
+[18-Apr-2020 13:08:36 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\ShareWidget\companyOptions.php on line 18
+[18-Apr-2020 13:08:36 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\ShareWidget\companyOptions.php on line 18
+[18-Apr-2020 13:08:36 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\ShareWidget\companyOptions.php on line 18
+[18-Apr-2020 13:08:36 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\ShareWidget\companyOptions.php on line 18
+[20-Apr-2020 13:15:47 Europe/Berlin] PHP Notice:  Undefined index: selectedCompany in C:\xampp\htdocs\ShareWidget\stock.php on line 11
+[20-Apr-2020 13:18:04 Europe/Berlin] PHP Notice:  Undefined index: selectedCompany in C:\xampp\htdocs\ShareWidget\stock.php on line 11
+[20-Apr-2020 13:18:51 Europe/Berlin] PHP Notice:  Undefined index: selectedCompany in C:\xampp\htdocs\ShareWidget\stock.php on line 11
+[20-Apr-2020 13:20:08 Europe/Berlin] PHP Notice:  Undefined index: companyName in C:\xampp\htdocs\ShareWidget\stock.php on line 11
+[20-Apr-2020 13:20:57 Europe/Berlin] PHP Notice:  Undefined index: companyName in C:\xampp\htdocs\ShareWidget\stock.php on line 11
+[20-Apr-2020 13:27:56 Europe/Berlin] PHP Notice:  Undefined index: companyName in C:\xampp\htdocs\ShareWidget\stock.php on line 11
+[20-Apr-2020 13:28:15 Europe/Berlin] PHP Notice:  Undefined index: companyName in C:\xampp\htdocs\ShareWidget\stock.php on line 11
+[20-Apr-2020 13:28:52 Europe/Berlin] PHP Notice:  Undefined index: companyName in C:\xampp\htdocs\ShareWidget\stock.php on line 11
+[20-Apr-2020 13:29:37 Europe/Berlin] PHP Notice:  Undefined index: companyName in C:\xampp\htdocs\ShareWidget\stock.php on line 11
+[20-Apr-2020 13:31:45 Europe/Berlin] PHP Notice:  Undefined index: companyName in C:\xampp\htdocs\ShareWidget\stock.php on line 11
+[20-Apr-2020 14:23:26 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\ShareWidget\stock.php on line 21
+[20-Apr-2020 14:23:48 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\ShareWidget\stock.php on line 21
+[20-Apr-2020 14:29:32 Europe/Berlin] PHP Warning:  Creating default object from empty value in C:\xampp\htdocs\ShareWidget\stock.php on line 20
+[20-Apr-2020 14:29:58 Europe/Berlin] PHP Warning:  Creating default object from empty value in C:\xampp\htdocs\ShareWidget\stock.php on line 20
+[20-Apr-2020 14:32:00 Europe/Berlin] PHP Warning:  Creating default object from empty value in C:\xampp\htdocs\ShareWidget\stock.php on line 20
+[20-Apr-2020 14:32:19 Europe/Berlin] PHP Warning:  Creating default object from empty value in C:\xampp\htdocs\ShareWidget\stock.php on line 20
+[20-Apr-2020 14:33:05 Europe/Berlin] PHP Warning:  Creating default object from empty value in C:\xampp\htdocs\ShareWidget\stock.php on line 20
+[20-Apr-2020 14:34:42 Europe/Berlin] PHP Warning:  Creating default object from empty value in C:\xampp\htdocs\ShareWidget\stock.php on line 20
+[20-Apr-2020 14:34:56 Europe/Berlin] PHP Warning:  Creating default object from empty value in C:\xampp\htdocs\ShareWidget\stock.php on line 20
+[20-Apr-2020 14:35:11 Europe/Berlin] PHP Warning:  Creating default object from empty value in C:\xampp\htdocs\ShareWidget\stock.php on line 20
+[22-Apr-2020 01:35:44 Europe/Berlin] PHP Warning:  Creating default object from empty value in C:\xampp\htdocs\ShareWidget\stock.php on line 20
+[22-Apr-2020 01:37:08 Europe/Berlin] PHP Warning:  Attempt to assign property 'name' of non-object in C:\xampp\htdocs\ShareWidget\stock.php on line 21
+[22-Apr-2020 01:37:08 Europe/Berlin] PHP Warning:  Attempt to assign property 'price' of non-object in C:\xampp\htdocs\ShareWidget\stock.php on line 22
+[22-Apr-2020 01:37:08 Europe/Berlin] PHP Warning:  Attempt to assign property 'movement' of non-object in C:\xampp\htdocs\ShareWidget\stock.php on line 23
+[22-Apr-2020 01:38:07 Europe/Berlin] PHP Warning:  Attempt to assign property 'name' of non-object in C:\xampp\htdocs\ShareWidget\stock.php on line 21
+[22-Apr-2020 01:38:07 Europe/Berlin] PHP Warning:  Attempt to assign property 'price' of non-object in C:\xampp\htdocs\ShareWidget\stock.php on line 22
+[22-Apr-2020 01:38:07 Europe/Berlin] PHP Warning:  Attempt to assign property 'movement' of non-object in C:\xampp\htdocs\ShareWidget\stock.php on line 23
+[22-Apr-2020 01:56:36 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\ShareWidget\stock.php on line 24
+[22-Apr-2020 01:56:36 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\ShareWidget\stock.php on line 24
+[22-Apr-2020 01:56:36 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\ShareWidget\stock.php on line 24
+[22-Apr-2020 01:59:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\ShareWidget\stock.php on line 24
+[22-Apr-2020 01:59:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\ShareWidget\stock.php on line 24
+[22-Apr-2020 01:59:28 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\ShareWidget\stock.php on line 24
+[22-Apr-2020 02:00:01 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\ShareWidget\stock.php on line 24
+[22-Apr-2020 02:00:01 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\ShareWidget\stock.php on line 24
+[22-Apr-2020 02:00:01 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\ShareWidget\stock.php on line 24
+[24-Apr-2020 18:28:08 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\ShareWidget\stock.php on line 21
+[24-Apr-2020 18:28:08 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\ShareWidget\stock.php on line 21
+[24-Apr-2020 18:28:08 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type bool in C:\xampp\htdocs\ShareWidget\stock.php on line 21
